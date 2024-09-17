@@ -1,1 +1,1 @@
-Requires Java FX
+Requires Java FX, This is one of my earliest projects using Java GUI, which was outdated even when this project was created, but I put a lot of effort into it and was proud of it, even if it was really simple. This program uses radio buttons and check boxes to actively changed the price of a pizza depending on size and toppings.
